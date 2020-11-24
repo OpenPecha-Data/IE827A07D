@@ -3,5 +3,12 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG6110
   title: ཁམས་སྟོད་ཞིབ་འཇུག ༼༡༽
-  volume: ''
+  volume: {}
   author: ''
+ebook_metadata:
+  title: ཁམས་སྟོད་ཞིབ་འཇུག ༼༡༽
+  author: ''
+  sku: P008143
+  cover: cover.jpg
+  layers:
+  - pagination
